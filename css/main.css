@@ -29,3 +29,35 @@ img {
   display: block;
   width: 100%;
 }
+
+h3 {
+    color: #939393;
+    font-size: 14px
+    }
+
+.column1 {
+    width: 33.33%;
+    float: left;
+    display: inline-block;
+    border-right-color: #939393;
+    border-right-style: solid;
+    border-right-width: 1px;
+    padding: 0 1rem;
+    
+}
+
+.column2 {
+    width: 33.33%;
+    display: inline-block;
+    border-right-color: #939393;
+    border-right-style: solid;
+    border-right-width: 1px;
+    padding: 0 1rem;
+}
+
+.column3 {
+    width: 33.33%;
+    float: right;
+    display: inline-block;
+    padding: 0 1rem;
+}
